@@ -1,129 +1,139 @@
-<h1 align="center">Sudarshan Tayde</h1>
-<h3 align="center">Data Engineer | Data Scientist | DevOps Enthusiast</h3>
-
+<!-- ====== BANNER ====== -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Sudarshanxx&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:1e293b&height=220&section=header&text=Sudarshan%20Tayde&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Engineering%20|%20Data%20Science%20|%20DevOps%20|%20Full-Stack&descAlignY=55" />
 </p>
 
+<!-- ====== TYPING ANIMATION ====== -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/sudarshan-tayde-11b744265" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Building+data-intensive+systems;Engineering+pipelines+that+scale;Turning+data+into+decisions;Automating+infrastructure+and+deployments" />
+</p>
+
+<!-- ====== LINKS ====== -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/sudarshan-tayde-11b744265">
+    <img src="https://img.shields.io/badge/LinkedIn-Professional-blue?style=for-the-badge" />
   </a>
   <a href="mailto:sudarshantayde04@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red" />
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge" />
   </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Sudarshanxx&label=Profile%20Views&color=0e75b6&style=flat-square" />
 </p>
 
 ---
 
- 👋 About Me
+## 🧠 Professional Summary
 
-I build data-centric systems that move, process, analyze, and serve data reliably at scale.
+I engineer **data-driven platforms** that ingest, transform, analyze, and serve data at scale — while ensuring reliability through **cloud-native design and DevOps automation**.
 
-My work lies at the intersection of **Data Engineering, Data Science, and DevOps** — designing ETL pipelines, working with analytics-ready data, building ML-powered applications, and ensuring everything runs smoothly through automation and CI/CD practices.
+My work spans **Data Engineering, Data Science, Full-Stack Web Development, and DevOps foundations**, with hands-on experience building end-to-end systems rather than isolated components.
 
-I focus on **real-world, production-oriented solutions**, not just academic demos.
-
----
-
-## 🎯 Roles I’m Targeting
-
-- **Data Engineer** – ETL pipelines, data modeling, analytics platforms  
-- **Data Scientist** – ML models, data analysis, insights & prediction  
-- **DevOps (Entry-Level)** – CI/CD, containerization, automation, cloud basics  
+I prioritize:
+- Scalability over shortcuts  
+- Automation over manual workflows  
+- Maintainability over one-off solutions  
 
 ---
 
-## 🧠 What I Work On
+## 🎯 Focus Areas
 
-- Data ingestion, transformation & validation pipelines  
-- Analytics-focused backend systems  
-- Machine learning models & data analysis workflows  
-- Cloud-based data platforms (Azure)  
-- DevOps foundations: CI/CD, Docker, automation, monitoring basics  
-
----
-
-## 🧰 Technical Skill Set (Production-Focused)
-
-### 🔹 Programming & Query Languages
-![Python](https://img.shields.io/badge/Python-blue)
-![SQL](https://img.shields.io/badge/SQL-lightgrey)
-![Java](https://img.shields.io/badge/Java-orange)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
-![TypeScript](https://img.shields.io/badge/TypeScript-blue)
+- **Data Engineering:** ETL pipelines, analytics backends, cloud data platforms  
+- **Data Science:** ML models, computer vision, data analysis & evaluation  
+- **DevOps:** CI/CD pipelines, containerization, infrastructure fundamentals  
+- **Full-Stack Development:** User-facing applications backed by robust APIs  
 
 ---
 
-### 🔹 Data Engineering & Cloud
-![Azure](https://img.shields.io/badge/Azure-0078D4)
-![Azure Data Factory](https://img.shields.io/badge/Azure%20Data%20Factory-blue)
-![Azure Synapse](https://img.shields.io/badge/Azure%20Synapse-blue)
-![Data Lake](https://img.shields.io/badge/Data%20Lake-blue)
-![ETL Pipelines](https://img.shields.io/badge/ETL-Pipelines-success)
-![PySpark](https://img.shields.io/badge/PySpark-orange)
+## 🧰 Technical Capabilities
+
+### 🧑‍💻 Languages
+![Python](https://img.shields.io/badge/Python-Advanced-blue)
+![SQL](https://img.shields.io/badge/SQL-Advanced-lightgrey)
+![Java](https://img.shields.io/badge/Java-Intermediate-orange)
+![JavaScript](https://img.shields.io/badge/JavaScript-Intermediate-yellow)
+![TypeScript](https://img.shields.io/badge/TypeScript-Intermediate-blue)
 
 ---
 
-### 🔹 Databases & Storage
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue)
-![MySQL](https://img.shields.io/badge/MySQL-blue)
-![MongoDB](https://img.shields.io/badge/MongoDB-green)
-![SQLite](https://img.shields.io/badge/SQLite-lightgrey)
+### ☁️ Cloud & Data Platforms
+![Azure](https://img.shields.io/badge/Azure-Cloud-blue)
+![AWS](https://img.shields.io/badge/AWS-Cloud-orange)
+![Azure Data Factory](https://img.shields.io/badge/Data%20Factory-ETL-blue)
+![Azure Synapse](https://img.shields.io/badge/Synapse-Analytics-blue)
+![Data Lake](https://img.shields.io/badge/Data%20Lake-Storage-blue)
+![PySpark](https://img.shields.io/badge/PySpark-Distributed-orange)
 
 ---
 
-### 🔹 Data Science & Machine Learning
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-orange)
-![Pandas](https://img.shields.io/badge/Pandas-black)
-![NumPy](https://img.shields.io/badge/NumPy-blue)
-![CNN](https://img.shields.io/badge/CNN-DeepLearning-red)
-![Computer Vision](https://img.shields.io/badge/Computer%20Vision-red)
-![Model Evaluation](https://img.shields.io/badge/Model%20Evaluation-grey)
+### 🗄️ Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Relational-blue)
+![MySQL](https://img.shields.io/badge/MySQL-Relational-blue)
+![MongoDB](https://img.shields.io/badge/MongoDB-NoSQL-green)
+![SQLite](https://img.shields.io/badge/SQLite-Embedded-lightgrey)
 
 ---
 
-### 🔹 DevOps & Engineering Tools
-![Git](https://img.shields.io/badge/Git-black)
-![GitHub](https://img.shields.io/badge/GitHub-black)
-![Docker](https://img.shields.io/badge/Docker-blue)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-black)
-![Linux](https://img.shields.io/badge/Linux-yellow)
-![Postman](https://img.shields.io/badge/Postman-orange)
+### 📊 Data Science & ML
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Applied-orange)
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-black)
+![NumPy](https://img.shields.io/badge/NumPy-Numerical-blue)
+![CNN](https://img.shields.io/badge/CNN-Computer%20Vision-red)
+![Model Evaluation](https://img.shields.io/badge/Model%20Evaluation-ML-grey)
 
 ---
 
-## 🚀 Selected Projects
+### 🌐 Full-Stack Web Development
+![React](https://img.shields.io/badge/React-Frontend-blue)
+![Node.js](https://img.shields.io/badge/Node.js-Backend-green)
+![Express](https://img.shields.io/badge/Express-APIs-black)
+![REST APIs](https://img.shields.io/badge/REST-APIs-lightgrey)
+![Flask](https://img.shields.io/badge/Flask-Backend-black)
 
-### 🔹 Azure Data Engineering Pipeline
-Designed and implemented an end-to-end ETL pipeline for structured data ingestion, transformation, and analytics.
+---
 
-**Tech:** Azure Data Factory, Synapse, Data Lake, SQL
+### ⚙️ DevOps & Engineering Tools
+![Git](https://img.shields.io/badge/Git-Version%20Control-black)
+![GitHub](https://img.shields.io/badge/GitHub-Collaboration-black)
+![Docker](https://img.shields.io/badge/Docker-Containers-blue)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-CI/CD-black)
+![Linux](https://img.shields.io/badge/Linux-Systems-yellow)
+![Postman](https://img.shields.io/badge/Postman-API-orange)
+
+---
+
+## 🚀 Selected Work
+
+### 🔹 Azure Data Engineering Platform
+Designed an analytics-ready data platform handling ingestion, transformation, and querying of structured datasets.
+
+**Stack:** Azure Data Factory, Synapse, Data Lake, SQL
 
 ---
 
 ### 🔹 AI Interviewer System
-AI-based interview platform that evaluates candidates using automated questions, scoring logic, and feedback generation.
+Built an AI-driven interview assessment system capable of automated evaluation and feedback.
 
-**Tech:** Python, ML, NLP, Backend APIs
+**Stack:** Python, ML, NLP, Backend APIs
 
 ---
 
 ### 🔹 ForestGuard / Vanarakshak
-AI-powered deforestation and wildlife monitoring system using satellite imagery and NDVI analysis.
+AI-based environmental monitoring system using satellite imagery and NDVI analysis for deforestation detection.
 
-**Tech:** CNNs, Python, Flask, Satellite Data, Data Visualization
-
----
-
-### 🔹 EventKaro
-Event management platform with package selection, booking flow, and service-based architecture.
-
-**Tech:** Web Technologies, Frontend Development
+**Stack:** CNNs, Python, Flask, Data Visualization
 
 ---
 
-## 📊 GitHub Activity
+### 🔹 EventKaro (Full-Stack)
+End-to-end event management platform featuring authentication, packages, workflows, and UI-driven interactions.
+
+**Stack:** Frontend Web Tech, Backend APIs
+
+---
+
+## 📈 GitHub Activity
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Sudarshanxx&show_icons=true&theme=tokyonight" />
@@ -135,5 +145,6 @@ Event management platform with package selection, booking flow, and service-base
 
 ---
 
-⭐ If you’re reviewing my profile for **Data Engineering, Data Science, or DevOps roles**,  
-you’ll find practical projects, clear structure, and production-oriented thinking throughout.
+<p align="center">
+  <i>Engineered for data. Built for scale. Designed for production.</i>
+</p>
